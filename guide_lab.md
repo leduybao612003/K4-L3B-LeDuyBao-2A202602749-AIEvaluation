@@ -40,7 +40,7 @@ Nó chỉ làm I/O và format Exercise 3.2; nó không viết lại evaluation m
 Lab làm **cá nhân**. Tên repo:
 
 ```text
-K4-L3B-<HoVaTen>-<MSSV>-AIEvaluation
+K4-L3B-LeDuyBao-2A202602749-AIEvaluation
 ```
 
 Ví dụ:
